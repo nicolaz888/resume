@@ -1,0 +1,22 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px 0px 0px 0px;
+}
+
+.center
+{
+    text-align: center;
+}
+
+.image
+{
+    width: 30%;
+    border-radius: 50%;
+}
+
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: aquamarine;
+  }
